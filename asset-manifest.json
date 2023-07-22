@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CredoBootcamp/static/css/main.0ab2ce25.css",
+    "main.js": "/CredoBootcamp/static/js/main.1b9b3321.js",
+    "static/media/planet_-_71428 (Original).mp4": "/CredoBootcamp/static/media/planet_-_71428 (Original).409139892b04116a484f.mp4",
+    "static/media/cards.jpg": "/CredoBootcamp/static/media/cards.a2f05d030f55216f4035.jpg",
+    "index.html": "/CredoBootcamp/index.html",
+    "main.0ab2ce25.css.map": "/CredoBootcamp/static/css/main.0ab2ce25.css.map",
+    "main.1b9b3321.js.map": "/CredoBootcamp/static/js/main.1b9b3321.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ab2ce25.css",
+    "static/js/main.1b9b3321.js"
+  ]
+}
